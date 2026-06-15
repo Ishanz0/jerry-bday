@@ -1,0 +1,36 @@
+{
+  "name": "earth-viewer",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^15.4.9",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1",
+    "three": "latest",
+    "@react-three/fiber": "latest",
+    "@react-three/drei": "latest",
+    "motion": "^12.23.24",
+    "lucide-react": "^0.553.0",
+    "clsx": "^2.1.1",
+    "tailwind-merge": "^3.3.1"
+  },
+  "devDependencies": {
+    "typescript": "5.9.3",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@types/three": "latest",
+    "tailwindcss": "4.1.11",
+    "@tailwindcss/postcss": "4.1.11",
+    "postcss": "^8.5.6",
+    "autoprefixer": "^10.4.21",
+    "eslint": "9.39.1",
+    "eslint-config-next": "16.0.8"
+  }
+}

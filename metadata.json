@@ -1,0 +1,6 @@
+{
+  "name": "EarthViewer",
+  "description": "An ultra-realistic interactive 3D earth globe using React Three Fiber.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
