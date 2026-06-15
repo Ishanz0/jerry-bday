@@ -11,11 +11,21 @@ import { X, Heart, Star } from 'lucide-react';
 // with your local paths once uploaded (e.g. '/images/jerry-1.jpg')
 // ==========================================
 const JERRY_IMAGES = [
-  "https://picsum.photos/seed/jerry1/600/800",
-  "https://picsum.photos/seed/jerry2/600/800",
-  "https://picsum.photos/seed/jerry3/600/800",
-  "https://picsum.photos/seed/jerry4/600/800",
-  "https://picsum.photos/seed/jerry5/600/800",
+  "/images/jerry-1.jpg",
+  "/images/jerry-2.jpg",
+  "/images/jerry-3.jpg",
+  "/images/jerry-4.jpg",
+  "/images/jerry-5.jpg",
+  "/images/jerry-6.jpg",
+  "/images/jerry-7.jpg",
+  "/images/jerry-8.jpg",
+  "/images/jerry-9.jpg",
+  "/images/jerry-10.jpg",
+  "/images/jerry-11.jpg",
+  "/images/jerry-12.jpg",
+  "/images/jerry-13.jpg",
+  "/images/jerry-14.jpg",
+  "/images/jerry-15.jpg",
 ];
 
 const COUNTRY_SPECIFIC_FLIRTS: Record<string, string[]> = {
@@ -26,7 +36,7 @@ const COUNTRY_SPECIFIC_FLIRTS: Record<string, string[]> = {
   ],
   "Pakistan": [
     "Ahh Pakistan (laugh)... Jerry literally rules it! 👑", 
-    "The mountains are high, but Jerry's standards are higher! 🏔️"
+    "The terrorism are high, but Jerry's standards are higher! 🏔️"
   ],
   "United States": [
     "Forget Hollywood, Jerry is the real main character of the USA! 🎬", 
